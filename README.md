@@ -1,2 +1,2 @@
-# hello-world
-this is the short description
+# Hello World
+This is the short description.
